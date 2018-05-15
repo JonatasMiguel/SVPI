@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "679346515260",
+    "firebase_url": "https://svpi-4da45.firebaseio.com",
+    "project_id": "svpi-4da45",
+    "storage_bucket": "svpi-4da45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679346515260:android:6fc1f2838540f197",
+        "android_client_info": {
+          "package_name": "com.example.jts.svpi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679346515260-urfja5jkjuldl9h8iquaivrl3d1vjvmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExS1Ovso_4JR4K0htQSX6qggBzo_XIjs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
